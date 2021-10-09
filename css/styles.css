@@ -2172,7 +2172,7 @@ progress {
   }
   
   .card{
-    height: 16em;
+    height: 16em !important;
   }
   
 }
