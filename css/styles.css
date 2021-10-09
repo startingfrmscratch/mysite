@@ -118,10 +118,6 @@ h1, .h1 {
   h1, .h1 {
     font-size: 6rem;
   }
-  
-  .card{
-    height: 16em;
-  }
 }
 
 h2, .h2 {
@@ -2174,6 +2170,11 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+  
+  .card{
+    height: 16em;
+  }
+  
 }
 .form-label {
   margin-bottom: 0.5rem;
